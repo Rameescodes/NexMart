@@ -13,7 +13,7 @@ const Header = () => {
     <header className="bg-white shadow-lg flex items-center justify-between p-5">
       {/* Project Name */}
       <div className="text-xl font-bold text-blue-700">
-        Nexamart
+        NexMart
       </div>
 
       {/* Search Bar */}
